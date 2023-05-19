@@ -25,7 +25,7 @@ public class Temperatura {
         temperaturaCE = (temperaturaFA -DIFERENCA)* FATOR;
         System.out.println("A temperatura "+temperaturaFA+" Fº"
         +"é "+ temperaturaCE +" Cº");
-        
+         
         
     }
 }
