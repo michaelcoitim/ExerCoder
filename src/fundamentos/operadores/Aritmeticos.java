@@ -1,5 +1,5 @@
 
-package Fundamentos;
+package fundamentos.operadores;
 
 /**
  *
