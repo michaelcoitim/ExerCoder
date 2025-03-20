@@ -1,7 +1,6 @@
 
-package fundamentos;
+package Fundamentos.operadores;
 
-import java.util.Scanner;
 
 /**
  *
