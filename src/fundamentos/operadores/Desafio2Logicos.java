@@ -14,7 +14,7 @@ public class Desafio2Logicos {
         boolean tv50 = (trabalho1 && trabalho2);
         boolean tv32 = trabalho1 ^ trabalho2;
         
-        boolean sorvete = tv50 ^ tv32;
+        boolean sorvete = tv50 || tv32;
         
         boolean saudavel = ! sorvete;
         
